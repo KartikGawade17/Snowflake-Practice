@@ -1,1 +1,3 @@
-# Snowflake-Practice
+# Snowflake Practice and HANDS ON LEARNING
+FIRST TIME THE INTRODUCTION TO SNOWFLAKE DATA WAREHOUSE
+Day 2 lets see how it goes.
